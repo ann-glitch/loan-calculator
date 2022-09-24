@@ -4,8 +4,8 @@
 
 ## learnt
 
-- how to create and display an error div.
+* [x] how to create and display an error div.
 
-## live preview
+---
 
-https://ann-glitch.github.io/loanCalculator/
+[Live Demo](https://ann-glitch.github.io/loanCalculator/)
