@@ -8,4 +8,4 @@
 
 ---
 
-[Live Demo](https://ann-glitch.github.io/loanCalculator/)
+[Live Demo](https://ann-glitch.github.io/loan-calculator/)
